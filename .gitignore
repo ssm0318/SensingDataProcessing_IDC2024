@@ -1,0 +1,4 @@
+/reference
+data/*.json
+*.json
+*.csv
